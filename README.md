@@ -2,7 +2,7 @@
 
 This is my final project for the [Parallel Design Pattern](http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11168.htm) course at the University of Edinburgh. We developed a distributed actor version of the traffic simulation code that supports multiple actors per MPI process. To achieve this, we created the __Parallel Actor Model__ (`PAM`) framework, implemented in C++ with MPI. 
 
-A detailed description of the framework's design, implementation, and API is given in `report.pdf`.
+Refer to [parallel-actor-model.pdf](https://github.com/faerlin-developer/parallel-actor-model/blob/main/parallel-actor-model.pdf) for a detailed description of the framework's design, implementation, and API.
 
 ## Contents
 
@@ -32,7 +32,7 @@ The application supports the following road network configurations:
 
 ## How To Run
 
-We show how to run the applications in the `user` directory on __ARCHER2__.
+This framework and the provided user programs were tested on [https://www.archer2.ac.uk/](ARCHER2), a tier-1 HPC system in [EPCC](https://www.epcc.ed.ac.uk/). 
 
 ### Hello World
 
