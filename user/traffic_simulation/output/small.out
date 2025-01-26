@@ -1,0 +1,21 @@
+Starting simulation with 1000 junctions, 2516 roads and 100 vehicles
+[DEBUG] Framework initialize_actors() takes 0.084548 seconds
+[Time: 2 mins] 279 vehicles, 119 passengers delivered, 0 stranded passengers, 0 crashed vehicles, 0 vehicles exhausted fuel
+[Time: 4 mins] 604 vehicles, 899 passengers delivered, 0 stranded passengers, 0 crashed vehicles, 0 vehicles exhausted fuel
+[Time: 6 mins] 863 vehicles, 2009 passengers delivered, 3 stranded passengers, 0 crashed vehicles, 2 vehicles exhausted fuel
+[Time: 8 mins] 1164 vehicles, 3077 passengers delivered, 8 stranded passengers, 0 crashed vehicles, 6 vehicles exhausted fuel
+[Time: 10 mins] 1319 vehicles, 4240 passengers delivered, 38 stranded passengers, 0 crashed vehicles, 22 vehicles exhausted fuel
+[Time: 12 mins] 1403 vehicles, 5199 passengers delivered, 77 stranded passengers, 0 crashed vehicles, 45 vehicles exhausted fuel
+[Time: 14 mins] 1503 vehicles, 6476 passengers delivered, 109 stranded passengers, 0 crashed vehicles, 65 vehicles exhausted fuel
+[Time: 16 mins] 1610 vehicles, 7750 passengers delivered, 159 stranded passengers, 0 crashed vehicles, 95 vehicles exhausted fuel
+[Time: 18 mins] 1697 vehicles, 8510 passengers delivered, 203 stranded passengers, 0 crashed vehicles, 116 vehicles exhausted fuel
+[Time: 20 mins] 1804 vehicles, 9468 passengers delivered, 264 stranded passengers, 0 crashed vehicles, 155 vehicles exhausted fuel
+[Time: 22 mins] 1911 vehicles, 10428 passengers delivered, 316 stranded passengers, 0 crashed vehicles, 182 vehicles exhausted fuel
+[Time: 24 mins] 2021 vehicles, 11528 passengers delivered, 359 stranded passengers, 0 crashed vehicles, 218 vehicles exhausted fuel
+[Time: 26 mins] 2133 vehicles, 12933 passengers delivered, 430 stranded passengers, 0 crashed vehicles, 256 vehicles exhausted fuel
+[Time: 28 mins] 2243 vehicles, 13934 passengers delivered, 477 stranded passengers, 0 crashed vehicles, 289 vehicles exhausted fuel
+[Time: 30 mins] 2336 vehicles, 14832 passengers delivered, 544 stranded passengers, 0 crashed vehicles, 314 vehicles exhausted fuel
+Finished after 30 mins: 2336 vehicles, 14832 passengers delivered, 544 passengers stranded, 0 crashed vehicles, 314 vehicles exhausted fuel
+[DEBUG] Summary send_terminate() takes 0.005088 seconds
+[DEBUG] Summary write_detailed_info() takes 0.005087 seconds
+Execution time is 59.193694
