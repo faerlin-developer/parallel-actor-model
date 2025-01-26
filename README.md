@@ -32,7 +32,7 @@ The application supports the following road network configurations:
 
 ## How To Run
 
-This framework and the provided user programs were tested on [https://www.archer2.ac.uk/](ARCHER2), a tier-1 HPC system in [EPCC](https://www.epcc.ed.ac.uk/). 
+This framework and the provided user programs were tested on [ARCHER2](https://www.archer2.ac.uk/), a tier-1 HPC system in [EPCC](https://www.epcc.ed.ac.uk/). 
 
 ### Hello World
 
