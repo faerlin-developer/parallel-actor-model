@@ -1,6 +1,6 @@
 # Parallel Actor Model
 
-This is my final project for the [Parallel Design Pattern](http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11168.htm) course at the University of Edinburgh. We developed a distributed actor version of the traffic simulation code that supports multiple actors per MPI process. To achieve this, we created the __Parallel Actor Model__ (`PAM`) framework, implemented in C++ with MPI. 
+This is my final project for the [Parallel Design Pattern](http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11168.htm) course at the University of Edinburgh. We developed a distributed actor version of the traffic simulation code that supports multiple actors per MPI process. To achieve this, we created the __Parallel Actor Model__ (`PAM`) framework, implemented in C++ with MPI. For performance testing, the traffic simulation code was executed using up to 4000 CPU cores.
 
 Refer to [parallel-actor-model.pdf](https://github.com/faerlin-developer/parallel-actor-model/blob/main/parallel-actor-model.pdf) for a detailed description of the framework's design, implementation, and API.
 
